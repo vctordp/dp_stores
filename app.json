@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Tênis e outros artigos esportivos e moda com preços incríveis na  D'p Stores! ",
+    "githubUrl": "https://github.com/vctordp/dp_store.git"
   }
 }
